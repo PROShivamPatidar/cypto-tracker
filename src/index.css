@@ -7,7 +7,7 @@
   --green: #61c96f;
   --red: #f94141;
 }
-html{
+html {
   scroll-behavior: smooth;
 }
 body {
@@ -52,11 +52,18 @@ img {
   /* user-drag: none; */
 }
 
-.grey-wrapper{
+.grey-wrapper {
   display: block;
   width: 90%;
   background-color: var(--darkgrey);
   margin: 1.5rem auto;
   border-radius: 0.8rem;
   padding: 1rem 1rem;
+}
+.coins-days-flex {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 1.5rem;
+  gap: 1rem;
 }

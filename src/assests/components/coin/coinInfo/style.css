@@ -4,6 +4,7 @@
 }
 .coin-info-header{
     padding-top: 1rem;
+    padding-bottom: 1rem;
 }
 .coin-info-desc a{
     text-decoration: underline !important;
